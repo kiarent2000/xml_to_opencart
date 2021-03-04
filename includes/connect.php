@@ -6,6 +6,15 @@ if($conn === false){
     die("ERROR: Could not connect. " . mysqli_connect_error());
 }
 mysqli_set_charset($conn , 'utf8' );
+
+spl_autoload_register(function ($class_name) {
+    include 'class/'.$class_name . '.php';
+});
+
+
 //echo "Соединение установлено";
-$start_date = date('Y-m-d H:i:s');
-$start = microtime(true); //начало измерения
+//$start_date = date('Y-m-d H:i:s');
+//$start = microtime(true); //начало измерения
+
+
+
