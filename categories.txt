@@ -1,0 +1,41 @@
+<category id="1" parentId="">Брендовая продукция</category>
+		<category id="2" parentId="">Очки</category>
+		<category id="3" parentId="">Модные аксессуары</category>
+		<category id="4" parentId="">Очки для спорта</category>
+		<category id="5" parentId="">Оправы</category>
+		<category id="6" parentId="">Линза</category>
+		<category id="7" parentId="">Футляры</category>
+		<category id="8" parentId="">Фотохромная оптика</category>
+		<category id="9" parentId="">Контактная коррекция</category>
+		<category id="10" parentId="">Расходники</category>
+		<category id="11" parentId="">Оптические приспособления</category>
+		<category id="12" parentId="">Аксессуары</category>
+		<category id="13" parentId="1">Брендовые оправы</category>
+		<category id="14" parentId="2">Очки в металлической оправе</category>
+		<category id="15" parentId="2">Очки в пластиковой оправе</category>
+		<category id="16" parentId="2">Очки-антифары</category>
+		<category id="17" parentId="2">Очки компьютерные</category>
+		<category id="18" parentId="3">Солнцезащитные очки</category>
+		<category id="19" parentId="4">Велосипедные очки</category>
+		<category id="20" parentId="5">Оправы металлические</category>
+		<category id="21" parentId="5">Оправы пластиковые</category>
+		<category id="22" parentId="5">Оправы детские металлические</category>
+		<category id="23" parentId="5">Оправы детские пластиковые</category>
+		<category id="24" parentId="6">Стигматические линзы</category>
+		<category id="25" parentId="7">Футляры производства Китай</category>
+		<category id="26" parentId="2">Очки в футляре</category>
+		<category id="27" parentId="8">Очки фотохромные</category>
+		<category id="28" parentId="2">Очки глаукомные</category>
+		<category id="29" parentId="2">Очки тренажеры</category>
+		<category id="30" parentId="2">Очки защитные</category>
+		<category id="31" parentId="4">Очки для плавания</category>
+		<category id="32" parentId="5">Оправы с насадкой</category>
+		<category id="33" parentId="9">Дорожные наборы</category>
+		<category id="34" parentId="9">Линзы контактные</category>
+		<category id="35" parentId="9">Средства ухода</category>
+		<category id="36" parentId="7">Футляры производства Изюм</category>
+		<category id="37" parentId="10">Инструменты и расходники</category>
+		<category id="38" parentId="11">Лупы</category>
+		<category id="39" parentId="12">Цепочки и шнурки</category>
+		<category id="40" parentId="12">Салфетки</category>
+		<category id="41" parentId="1">Брендовые солнцезащитные очки</category>
